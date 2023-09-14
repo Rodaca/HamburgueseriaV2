@@ -9,57 +9,57 @@ localhost:3000/api/q4
 Encontrar todas las hamburguesas preparadas por “ChefB”
 localhost:3000/api/q5
 Encontrar el nombre y la descripción de todas las categorías
-localhost:3000/api/
+localhost:3000/api/q6
 Eliminar todos los ingredientes que tengan un stock de 0
-localhost:3000/api/
+localhost:3000/api/q7
 Agregar un nuevo ingrediente a la hamburguesa “Clásica”
-localhost:3000/api/
+localhost:3000/api/q8
 Encontrar todas las hamburguesas que contienen “Pan integral” como ingrediente
-localhost:3000/api/
+localhost:3000/api/q9
 Cambiar la especialidad del “ChefC” a “Cocina Internacional”
-localhost:3000/api/
+localhost:3000/api/q10
 Encontrar el ingrediente más caro
-localhost:3000/api/
+localhost:3000/api/q11
 Encontrar las hamburguesas que no contienen “Queso cheddar” como ingrediente
-localhost:3000/api/
+localhost:3000/api/q12
 Incrementar el stock de “Pan” en 100 unidades
-localhost:3000/api/
+localhost:3000/api/q13
 Encontrar todos los ingredientes que tienen una descripción que contiene la palabra “clásico”
-localhost:3000/api/
+localhost:3000/api/q14
 Listar las hamburguesas cuyo precio es menor o igual a $9
-localhost:3000/api/
+localhost:3000/api/q15
 Contar cuántos chefs hay en la base de datos
-localhost:3000/api/
+localhost:3000/api/q16
 Encontrar todas las categorías que contienen la palabra “gourmet” en su descripción
-localhost:3000/api/
+localhost:3000/api/q17
 Eliminar las hamburguesas que contienen menos de 5 ingredientes
-localhost:3000/api/
+localhost:3000/api/q19
 Agregar un nuevo chef a la colección con una especialidad en “Cocina Asiática”
-localhost:3000/api/
+localhost:3000/api/q20
 Listar las hamburguesas en orden ascendente según su precio
-localhost:3000/api/
+localhost:3000/api/q21
 Encontrar todos los ingredientes cuyo precio sea entre $2 y $5
-localhost:3000/api/
+localhost:3000/api/q22
 Actualizar la descripción del “Pan” a “Pan fresco y crujiente”
-localhost:3000/api/
+localhost:3000/api/q23
 Encontrar todas las hamburguesas que contienen “Tomate” o “Lechuga” como ingredientes
-localhost:3000/api/
+localhost:3000/api/q24
 Listar todos los chefs excepto “ChefA”
-localhost:3000/api/
+localhost:3000/api/q25
 Incrementar en $2 el precio de todas las hamburguesas de la categoría “Gourmet”
-localhost:3000/api/
+localhost:3000/api/q26
 Listar todos los ingredientes en orden alfabético
-localhost:3000/api/
+localhost:3000/api/q27
 Encontrar la hamburguesa más cara
-localhost:3000/api/
+localhost:3000/api/q28
 Agregar “Pepinillos” a todas las hamburguesas de la categoría “Clásica”
-localhost:3000/api/
+localhost:3000/api/q29
 Eliminar todos los chefs que tienen una especialidad en “Cocina Vegetariana”
-localhost:3000/api/
+localhost:3000/api/q30
 Encontrar todas las hamburguesas que contienen exactamente 7 ingredientes
-localhost:3000/api/
+localhost:3000/api/q31
 Encontrar la hamburguesa más cara que fue preparada por un chef especializado en “Gourmet”
-localhost:3000/api/
+localhost:3000/api/q32
 Listar todos los ingredientes junto con el número de hamburguesas que los contienen
 localhost:3000/api/
 Listar los chefs junto con el número de hamburguesas que han preparado
